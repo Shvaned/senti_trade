@@ -1,4 +1,8 @@
 
+*Make sure to have historical data csv file downloaded*
+
+
+
 Link to dataset
 
 Historical Data:
