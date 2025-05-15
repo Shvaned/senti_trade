@@ -1,6 +1,7 @@
 
 *Make sure to have historical data csv file downloaded*
 
+*Analysis.py for basic analysis, transition.py to observe trade sentiment patterns*
 
 
 Link to dataset
